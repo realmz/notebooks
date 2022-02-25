@@ -1,0 +1,82 @@
+{
+    "0": {
+        "enqueue_task_fair": {
+            "hits": 3430,
+            "time": 1244.1,
+            "avg": 0.362,
+            "s_2": 0.067
+        },
+        "dequeue_task_fair": {
+            "hits": 3232,
+            "time": 1115.52,
+            "avg": 0.345,
+            "s_2": 0.148
+        },
+        "select_task_rq_fair": {
+            "hits": 3077,
+            "time": 482.76,
+            "avg": 0.156,
+            "s_2": 0.141
+        }
+    },
+    "1": {
+        "enqueue_task_fair": {
+            "hits": 505,
+            "time": 231.32,
+            "avg": 0.458,
+            "s_2": 0.033
+        },
+        "dequeue_task_fair": {
+            "hits": 561,
+            "time": 230.24,
+            "avg": 0.41,
+            "s_2": 0.058
+        },
+        "select_task_rq_fair": {
+            "hits": 361,
+            "time": 116.12,
+            "avg": 0.321,
+            "s_2": 0.059
+        }
+    },
+    "2": {
+        "enqueue_task_fair": {
+            "hits": 844,
+            "time": 412.86,
+            "avg": 0.489,
+            "s_2": 0.034
+        },
+        "dequeue_task_fair": {
+            "hits": 838,
+            "time": 352.24,
+            "avg": 0.42,
+            "s_2": 0.066
+        },
+        "select_task_rq_fair": {
+            "hits": 586,
+            "time": 148.66,
+            "avg": 0.253,
+            "s_2": 0.026
+        }
+    },
+    "3": {
+        "enqueue_task_fair": {
+            "hits": 718,
+            "time": 281.32,
+            "avg": 0.391,
+            "s_2": 0.044
+        },
+        "dequeue_task_fair": {
+            "hits": 866,
+            "time": 258.16,
+            "avg": 0.298,
+            "s_2": 0.063
+        },
+        "select_task_rq_fair": {
+            "hits": 647,
+            "time": 145.12,
+            "avg": 0.224,
+            "s_2": 0.038
+        }
+    }
+}

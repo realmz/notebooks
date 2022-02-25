@@ -1,0 +1,20 @@
+
+  Function (CPU0)                               Hit    Time            Avg             s^2
+  --------                               ---    ----            ---             ---
+  ksys_read                             2504    4424.440 us     1.766 us        4059.186 us 
+  ksys_write                            6061    2675.800 us     0.441 us        10.129 us   
+
+  Function (CPU1)                               Hit    Time            Avg             s^2
+  --------                               ---    ----            ---             ---
+  ksys_write                           24279    8776.940 us     0.361 us        119.497 us  
+  ksys_read                             9668    4239.240 us     0.438 us        223.009 us  
+
+  Function (CPU2)                               Hit    Time            Avg             s^2
+  --------                               ---    ----            ---             ---
+  ksys_read                              514    4888.960 us     9.511 us        4636.618 us 
+  ksys_write                              85    323.320 us      3.803 us        11.992 us   
+
+  Function (CPU3)                               Hit    Time            Avg             s^2
+  --------                               ---    ----            ---             ---
+  ksys_read                              370    2077.500 us     5.614 us        4963.005 us 
+  ksys_write                             229    894.700 us      3.906 us        10.998 us   
